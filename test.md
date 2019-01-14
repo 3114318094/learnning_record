@@ -1,6 +1,6 @@
-```python
-import this
-# diyigebiaoti
-```
+# 学习记录手册
 
-# ex:
+## makeOS info:
+[wikiOSdev](http://wiki.osdev.org/)
+30days make os
+orangs os
